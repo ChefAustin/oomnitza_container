@@ -1,6 +1,6 @@
 # Barebones Oomnitza Connector on Ubuntu
 FROM ubuntu:18.04
-MAINTAINER ChefAustin version 0.1.1
+MAINTAINER ChefAustin version 0.1.2
 
 # Install deps
 RUN apt-get update && apt-get install -y build-essential apt-utils python-pip python2.7-dev python2.7 libdbus-glib-1-dev python-dbus git libsasl2-dev python-dev libldap2-dev libssl-dev unixodbc unixodbc-dev cron && rm -rf /var/lib/apt/lists/*
