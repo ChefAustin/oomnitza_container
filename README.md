@@ -10,3 +10,5 @@ docker run --name=oomnitza_container \
 -p 80:8000 --restart="always" \
 chefaustin/oomnitza_container:latest
 ```
+
+https://cloud.docker.com/repository/docker/chefaustin/oomnitza_container/
