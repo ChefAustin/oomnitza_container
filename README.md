@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ChefAustin/oomnitza_container.svg?branch=master)](https://travis-ci.org/ChefAustin/oomnitza_container)
+
 # oomnitza_container
 Dockerfile for a Ubuntu container with all dependencies needed for running the Oomnitza connector.
 
