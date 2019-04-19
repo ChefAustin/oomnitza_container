@@ -1,5 +1,6 @@
 # Barebones Oomnitza Connector on Ubuntu
 FROM ubuntu:18.04
+LABEL maintainer="Austin Culter <austin.culter@google.com>"
 MAINTAINER ChefAustin version 0.1.2
 
 # Install deps
